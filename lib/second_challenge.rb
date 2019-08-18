@@ -4,7 +4,7 @@ def second_challenge
     :montague => {
       :patriarch => {"Lord Montague"},
       :matriarch => {"Lady Montague"},
-      :hero => {"Lady Montague"},
+      :hero => {"Romeo"},
       :hero_friends => ["Benvolio","Mercutio"]
       }, 
       
@@ -13,10 +13,8 @@ def second_challenge
       :matriarch => {"Lady Capulet"},
       :heroine => {"Juliet"},
       :heroine_friends => ["Steven","Nurse"]
-      #your key/value pairs here!
       }
     
    }
 
-  
 end
